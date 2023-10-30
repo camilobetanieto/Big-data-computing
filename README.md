@@ -1,7 +1,7 @@
 # Big-data-computing
 Homeworks carried out for the Big Data Computing course I took for my master's degree.
 
-There were three assignments to familiarize ourselves with PySpark in the context of Big Data: The first two were related to MapReduce algorithms and the third focused on the Spark Streaming API. The homework statements and the code templates were given by the course professors during the first semester of 2023.
+There were three assignments to familiarize ourselves with PySpark in the context of big data: The first two were related to MapReduce algorithms and the third focused on the Spark Streaming API. The homework statements and the code templates were given by the course professors during the first semester of 2023.
 
 ## Homework 1:
 In this case, the task was to implement two MapReduce algorithms, one using the Spark partitions and the other using a partition determined by a hash function. The goal was to approximate the count of distinct triangles in an undirected graph. The triangle-counting primitive is valuable in various scenarios, including social network analysis and web spam detection. For this initial assignment, we were instructed to run the algorithms locally.
