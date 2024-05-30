@@ -1,5 +1,5 @@
 # Big Data Computing
-Homeworks carried out for the Big Data Computing course I took during my master's degree.
+Homeworks carried out for the [Big Data Computing](https://en.didattica.unipd.it/off/2022/LM/SC/SC2377/001PD/SCP7079297/N0) course I took during my master's degree.
 
 There were three assignments to familiarize ourselves with PySpark in the context of big data: The first two were related to MapReduce algorithms and the third one focused on the Spark Streaming API. The homework statements and the initial code templates were given by the course professors during the first semester of 2023.
 
